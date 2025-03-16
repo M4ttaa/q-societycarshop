@@ -6,5 +6,12 @@ __________________________________________________
 Features:
 ・esx society car shop
 ・allowing to purchase cars with socety money
+・allowing to add custom prefix for plates
 ・allowing to add more vehicles and etc...
+__________________________________________________
+
+__________________________________________________
+Depencys:
+・ox_lib
+・mVehicle and mGarage or you can change sql thing in server.lua
 __________________________________________________
